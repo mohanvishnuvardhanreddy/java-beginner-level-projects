@@ -1,6 +1,10 @@
 # 🚀 Java CLI Projects Collection
 
-A comprehensive collection of **four functional Command Line Interface (CLI) applications** built using Java. This repository demonstrates core Java concepts including Object-Oriented Programming (OOP), data structures, file handling, and exception management.
+A comprehensive collection of **four functional Command Line Interface (CLI) applications** built using Java. This repository demonstrates core Java concepts including Object-Oriented Programming, Collections Framework, Exception Handling, and File I/O operations.
+
+## 🛠️ Languages & Tools
+
+![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📚 Table of Contents
 
@@ -323,7 +327,7 @@ If you want to learn more about Java programming:
 
 ---
 
-**Last Updated:** June 2024  
+**Last Updated:** June 2026  
 **Version:** 1.0.0
 
 Made with ❤️ for Java learners and developers.
